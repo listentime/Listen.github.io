@@ -5,6 +5,8 @@
 - javascript
   - [基础](/list/js-base)
   - [高级](/list/js-senior)
+- ES6
+  - [常用语法](/list/es6-grammar)
 - webpack
   - [基本配置](/list/base-config)
 - vue
