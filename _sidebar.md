@@ -16,4 +16,5 @@
   - [算法部分](/list/algorithm)
   - [编程部分](/list/program)
 - 日常bug
-- 心得体会
+- [读书体会](/list/read)
+  
