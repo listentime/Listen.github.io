@@ -6,5 +6,5 @@
 
 * The first step is as good as half over
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/listentime)
 [Get Started](#quick-start)
