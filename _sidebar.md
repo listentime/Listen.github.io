@@ -1,5 +1,5 @@
 - [首页](/)
-- 基础知识
+- base
   + [html](/list/html)
   + [css](/list/css)
 - javascript
