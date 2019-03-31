@@ -12,9 +12,9 @@
 - vue
   - [基本知识](/list/base-know)
 - 常见面试题
-  - [布局部分](/list/layout)
-  - [算法部分](/list/algorithm)
-  - [编程部分](/list/program)
+  - [布局部分](/list/interview/layout)
+  - [算法部分](/list/interview/algorithm)
+  - [编程部分](/list/interview/program)
 - 日常bug
 - [读书体会](/list/read)
   
