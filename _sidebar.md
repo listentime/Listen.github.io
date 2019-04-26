@@ -12,7 +12,7 @@
 - vue
   - [基本知识](/list/base-know)
 - git
-  - [基本操作](/list/git)
+  - [git基本](/list/git)
 - 常见面试题
   - [布局部分](/list/interview/layout)
   - [算法部分](/list/interview/algorithm)
