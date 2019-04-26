@@ -15,6 +15,8 @@
   - [布局部分](/list/interview/layout)
   - [算法部分](/list/interview/algorithm)
   - [编程部分](/list/interview/program)
+- git
+  - [基本操作](/list/git.md)
 - 日常bug
 - [读书体会](/list/read)
   
